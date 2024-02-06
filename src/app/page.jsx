@@ -47,7 +47,7 @@ function Home() {
           </button>
          
           <button className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-6 rounded">
-            <a href="https://download2445.mediafire.com/mfpecf00huqgbBg0deINe1DWH0kTVgaDODmiDilxUUjDk5H_tjzF6XBotLak2n0IiTQBmBp7Gv4Qr700f7JcAeg4tWPAQTfyH93LltTuI4MOludtJL2H83E2JKZf_pyHjKgzwL9zj7n4TX2basrjU1grcPFzPQ8h4UQg_yDq6JHvFGA/bhb6gxjxjjf86t5/MINECRAFT+PE+1.20.60+ATUALIZADO+ByHT.apk">Maincra</a>
+            <a href="https://download2435.mediafire.com/17hq9pykh9og5oYFi598Ij90TMzlsYlCTOb2BlKL4hY8Fyy5CtgakREpDTxpc4Fn96F0_gKHEEpVRSq_Mx9nh8hI_H7QJDqOsegZI1l7XG5ITnrtvlzGfrpRLrmgmgY0gQXlP1vgKIa2J79hPxGzOK8kn1J4WuJu-NWsUYCE5lPqO0I/4vxeur3hxv8rs71/Minecraft-1.20.60-Modilimitado.Com.apk">Maincra</a>
           </button>
         </>
       )}
