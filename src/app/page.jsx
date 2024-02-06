@@ -47,7 +47,7 @@ function Home() {
           </button>
          
           <button className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-6 rounded">
-            <a href="https://download2435.mediafire.com/17hq9pykh9og5oYFi598Ij90TMzlsYlCTOb2BlKL4hY8Fyy5CtgakREpDTxpc4Fn96F0_gKHEEpVRSq_Mx9nh8hI_H7QJDqOsegZI1l7XG5ITnrtvlzGfrpRLrmgmgY0gQXlP1vgKIa2J79hPxGzOK8kn1J4WuJu-NWsUYCE5lPqO0I/4vxeur3hxv8rs71/Minecraft-1.20.60-Modilimitado.Com.apk">Maincra</a>
+            <a href="https://download2435.mediafire.com/5drolnel1bdgVLuqd4Hq-m9ZEramXJSDz89D52PYoNqH4lQrjFpI3jHa8tFzf0Hr3k7mBfFhFQ76asZ8DlBc7yzuxntU83SnlpdF3jY7Omo6SZ3Jb-Et7V_QubDVekfi6zryoPM3QP-n8VY5y2fsirMGUyrOz9enKhIOuA2fFHHsOMY/7x9l66s0l54evl3/MaincraParaMari.apk">Maincra</a>
           </button>
         </>
       )}
